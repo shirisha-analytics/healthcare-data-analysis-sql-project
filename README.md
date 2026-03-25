@@ -1,2 +1,8 @@
-# healthcare-data-analysis-sql-project
-Performed end-to-end data cleaning, transformation, aggregation, and ranking analysis using MySQL
+## healthcare-data-analysis-sql-project
+# Analysis Workflow
+- Data Exploration
+- Missing Value Treatment
+- Data Cleaning & Validation
+- Data Type Standardization
+- Aggregation & Grouping
+- Ranking & Comparative Analysis
